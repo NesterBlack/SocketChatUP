@@ -162,7 +162,7 @@ class ClientMethod:
 
 
                     if data.author == self.my_name:
-                        x = 280
+                        x = x_east-110
                     else:
                         x = 20
 
